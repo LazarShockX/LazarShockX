@@ -22,4 +22,4 @@ As a student of software engineering at Aalborg University Copenhagen, I'm enthu
 
 ## 🚀 Skills
 - **Languages:** C, C#, HTML & CSS, Java, JavaScript, Latex, Python, Ocaml
-- **Tools:** Git/GitHub, GitHub Actions, Azure, Express.js, Node.js, React, Redux, Spring Boot, JUnit, RESTful, Postman, Ocamllex, Menhir, ChatGPT, Unity, Godot, Wireshark
+- **Tools:** Git/GitHub, GitHub Actions, Azure, Express.js, Node.js, React, Redux, Spring Boot, JUnit, RESTful, Postman, Ocamllex, Menhir, ChatGPT, Unity, Godot, Wireshark, VS Code
