@@ -7,19 +7,10 @@
 
 As a student of software engineering at Aalborg University Copenhagen, I'm enthusiastic about creating inventive and user-friendly software solutions using the latest technologies.
 
-- 🔭 **I’m** currently studying Software Engineering on 4th Semester
+- 🔭 **I’m** currently studying Software Engineering on 5th Semester
 - 🌱 **I’m** currently working on a website
 - 💬 **Feel** free to inquire me about anything
 - 📫 **Reach** me by mail donaldbr12@gmail.com
-
-## 🧑‍🎓 Education
-- **Bsc. Software Engineering**
-  - Aalborg University Copenhagen
-  - *Sep. 2022 - Present*
-
-- **Gymnasium (Math A, Biotech A, Physics B)**
-  - Solrød Gymnasium
-  - *Aug. 2019 - Jun. 2022*
 
 ## 🚀 Skills
 - **Languages:** C, C#, HTML & CSS, Java, JavaScript, Latex, Ocaml, Python
