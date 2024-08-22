@@ -8,7 +8,7 @@
 As a student of software engineering at Aalborg University Copenhagen, I'm enthusiastic about creating inventive and user-friendly software solutions using the latest technologies.
 
 - 🔭 **I’m** currently studying Software Engineering on 5th Semester
-- 🌱 **I’m** currently working on a real time chat app with Socket.io
+- 🌱 **I** just released my brand new website - check it out [here](https://randotalk.com/)
 - 💬 **Feel** free to inquire me about anything
 - 📫 **Reach** me by mail donaldbr12@gmail.com
 
