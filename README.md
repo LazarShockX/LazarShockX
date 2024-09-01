@@ -13,7 +13,7 @@ As a student of software engineering at Aalborg University Copenhagen, I'm enthu
 - 📫 **Reach** me by mail donaldbr12@gmail.com
 
 ## 🚀 Skills
-- **Languages:** C, C#, HTML & CSS, Java, JavaScript, Latex, Ocaml, Python
+- **Languages:** Assembly, C, C#, HTML & CSS, Java, JavaScript, Latex, Ocaml, Python
 <div>
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e0d299f2-767c-4c21-bd49-90f2a19f1a78" width="60" alt="C">
 <!-- C# -->
