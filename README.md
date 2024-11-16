@@ -28,7 +28,7 @@ As a student of software engineering at Aalborg University Copenhagen, I'm enthu
 </div>
 <br><br>
 
-- **Tools:** Azure, ChatGPT, Docker, Express.js, Flask, Git/GitHub, GitHub Actions, GitHub Copilot, Godot, JUnit, Menhir, Node.js, Ocamllex, PostgreSQL Postman, Pug, Pygame, React, Redux, Render, RESTful, Socket.IO, Spring Boot, Supabase, Tailwind CSS, Unity, Vite, VS Code, WebRTC, Wireshark, Zustand
+- **Tools:** Azure, ChatGPT, Docker, Express.js, Flask, Git/GitHub, GitHub Actions, GitHub Copilot, Godot, JUnit, Menhir, NextAuth.js, Node.js, Ocamllex, Prisma, PostgreSQL Postman, Pug, Pygame, React, Redux, Render, RESTful, Socket.IO, Spring Boot, Supabase, Tailwind CSS, Unity, Vite, VS Code, WebRTC, Wireshark, Zustand
 <div>
 <!-- img src="https://user-images.githubusercontent.com/74038190/212280823-79088828-a258-4a4d-8d6c-96315d5a07af.gif" width="60" alt="Azure" -->
 <!-- ChatGPT -->
