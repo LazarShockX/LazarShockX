@@ -10,7 +10,7 @@ As a student of software engineering at Aalborg University Copenhagen, I'm enthu
 
 - 🔭 **I’m** currently studying Software Engineering on 6th Semester
 - 🌱 **I've** released a real time chat app with 1000+ monthly users - [randotalk.com](https://www.randotalk.com/)
-- 💬 **Feel** free to inquire me about anything
+- 💬 **Connect** with me on [LinkedIn](https://www.linkedin.com/in/donald-brinch-683239345/)
 - 📫 **Reach** me by mail donaldbr12@gmail.com
 
 ## 🚀 Skills
