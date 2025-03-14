@@ -14,7 +14,16 @@ As a student of software engineering at Aalborg University Copenhagen, I'm enthu
 - 📫 **Reach** me by mail donaldbr12@gmail.com
 
 ## 🚀 Skills
-- **Languages:** Assembly, C, C#, HTML & CSS, Java, JavaScript & TypeScript, Latex, Ocaml, Python
+- **Languages:** C, C#, HTML and CSS, Java, JavaScript, OCaml, Python, TypeScript.
+
+- **Frameworks:** Cypress, Express.js, Flask, JUnit, NestJS, Next.js, (Node.js), React, Spring Boot, Tailwind CSS, Vite, WebRTC.
+
+- **Databases:** MongoDB, PostgreSQL, Prisma.
+
+- **Development Tools & Platforms:** Azure, Blender, Docker, Figma, Git, GitHub Actions, Postman, Unity, Wireshark.
+
+- **Libraries:** Axios, NextAuth.js, Pygame, Redux, Socket.IO, Zustand.
+
 <div>
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e0d299f2-767c-4c21-bd49-90f2a19f1a78" width="60" alt="C">
 <!-- C# -->
@@ -26,9 +35,6 @@ As a student of software engineering at Aalborg University Copenhagen, I'm enthu
 <!-- Ocaml -->
 <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="60" alt="Python">
 </div>
-<br><br>
-
-- **Tools:** Azure, ChatGPT, Docker, Express.js, Flask, Git/GitHub, GitHub Actions, GitHub Copilot, Godot, JUnit, Menhir, NextAuth.js, Node.js, Ocamllex, Prisma, PostgreSQL Postman, Pug, Pygame, React, Redux, Render, RESTful, Socket.IO, Spring Boot, Supabase, Tailwind CSS, Unity, Vite, VS Code, WebRTC, Wireshark, Zustand
 <div>
 <!-- img src="https://user-images.githubusercontent.com/74038190/212280823-79088828-a258-4a4d-8d6c-96315d5a07af.gif" width="60" alt="Azure" -->
 <!-- ChatGPT -->
