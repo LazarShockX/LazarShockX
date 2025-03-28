@@ -18,7 +18,7 @@ As a student of software engineering at Aalborg University Copenhagen, I'm enthu
 
 - **Frameworks:** Cypress, Express.js, Flask, JUnit, NestJS, Next.js, (Node.js), React, Spring Boot, Tailwind CSS, Vite, WebRTC.
 
-- **Databases:** MongoDB, PostgreSQL, Prisma.
+- **Databases:** GraphQL, MongoDB, PostgreSQL, Prisma.
 
 - **Development Tools & Platforms:** Azure, Blender, Docker, Figma, Git, GitHub Actions, Postman, Unity, Wireshark.
 
