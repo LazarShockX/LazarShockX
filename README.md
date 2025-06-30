@@ -18,11 +18,11 @@ As a student of software engineering at Aalborg University Copenhagen, I'm enthu
 
 - **Frameworks:** Cypress, Express.js, Flask, JUnit, NestJS, Next.js, (Node.js), React, Spring Boot, Tailwind CSS, Vite, WebRTC.
 
-- **Databases:** GraphQL, MongoDB, PostgreSQL, Prisma.
+- **Databases:** Drizzle, GraphQL, MongoDB, Neon, PostgreSQL, Prisma.
 
 - **Development Tools & Platforms:** Azure, Blender, Docker, Figma, Git, GitHub Actions, Postman, Unity, Wireshark.
 
-- **Libraries:** Axios, NextAuth.js, Pygame, Redux, Socket.IO, Zustand.
+- **Libraries:** Axios, Better Auth, NextAuth.js, Pygame, Redux, Socket.IO, Zustand.
 
 <div>
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e0d299f2-767c-4c21-bd49-90f2a19f1a78" width="60" alt="C">
