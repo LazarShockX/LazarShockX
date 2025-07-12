@@ -6,7 +6,7 @@
 **LazarShockX/LazarShockX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-As a student of software engineering at Aalborg University Copenhagen, I'm enthusiastic about creating inventive and user-friendly software solutions using the latest technologies.
+Passionate about developing intuitive web applications with a focus on user experience and modern tech stacks.
 
 - 🔭 **I** hold a Bachelor of Science  in Software Engineering
 - 🌱 **I've** released a real time chat app with 1000+ monthly users - [randotalk.com](https://www.randotalk.com/)
