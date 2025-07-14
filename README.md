@@ -22,7 +22,7 @@ Passionate about developing intuitive web applications with a focus on user expe
 
 - **Development Tools & Platforms:** Azure, Blender, Docker, Figma, Git, GitHub Actions, Postman, Unity, Wireshark.
 
-- **Libraries:** Axios, Better Auth, NextAuth.js, Pygame, Redux, Socket.IO, Zustand.
+- **Libraries:** Axios, Better Auth, NextAuth.js, Pygame, Redux, Socket.IO, tRPC, Zustand.
 
 <div>
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e0d299f2-767c-4c21-bd49-90f2a19f1a78" width="60" alt="C">
