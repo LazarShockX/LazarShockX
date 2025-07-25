@@ -36,12 +36,6 @@ PostgreSQL · MongoDB · Neon · Prisma · Drizzle
 ### DevOps & Tools  
 Docker · Git · GitHub Actions · Postman · ngrok · Wireshark · Azure · Vercel · Polar
 
-### Design & 3D  
-Figma · Blender
-
-### Game Development  
-Unity · Pygame
-
 
 <div>
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e0d299f2-767c-4c21-bd49-90f2a19f1a78" width="60" alt="C">
