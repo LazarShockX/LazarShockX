@@ -18,7 +18,7 @@ Passionate about developing intuitive web applications with a focus on user expe
 ### Languages  
 C · C# · HTML & CSS · Java · JavaScript · OCaml · Python · TypeScript
 
-### ⚙Backend  
+### Backend  
 - **Frameworks:** Express.js · Flask · NestJS · Node.js · Spring Boot · JUnit
 - **APIs & Architecture:** REST · GraphQL · tRPC · Webhooks · Inngest 
 - **Authentication:** NextAuth.js · Better Auth
