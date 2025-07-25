@@ -15,32 +15,32 @@ Passionate about developing intuitive web applications with a focus on user expe
 
 ## 🚀 Tech Stack
 
-### 🧠 Languages  
-C, C#, HTML & CSS, Java, JavaScript, OCaml, Python, TypeScript
+### Languages  
+C · C# · HTML & CSS · Java · JavaScript · OCaml · Python · TypeScript
 
-### ⚙️ Backend  
-- **Frameworks:** Express.js, Flask, NestJS, Node.js, Spring Boot, JUnit  
-- **APIs & Architecture:** REST, GraphQL, tRPC, Webhooks, Inngest  
-- **Authentication:** NextAuth.js, Better Auth  
-- **Realtime & Streaming:** Socket.IO, Stream Video/Chat SDK, WebRTC
+### ⚙Backend  
+- **Frameworks:** Express.js · Flask · NestJS · Node.js · Spring Boot · JUnit
+- **APIs & Architecture:** REST · GraphQL · tRPC · Webhooks · Inngest 
+- **Authentication:** NextAuth.js · Better Auth
+- **Realtime & Streaming:** Socket.IO · WebRTC · Stream Video/Chat SDK
 
-### 💻 Frontend  
-- **Frameworks & Libraries:** React, Next.js, Vite, Tailwind CSS  
+### Frontend  
+- **Frameworks & Libraries:** React · Next.js · Vite · Tailwind CSS
 - **Testing:** Cypress  
-- **State Management:** Redux, Zustand  
-- **Data Handling:** TanStack Query (React Query), Axios
+- **State Management:** Redux · Zustand
+- **Data Handling:** TanStack Query · Axios
 
-### 🗄️ Databases  
-Drizzle, MongoDB, Neon, PostgreSQL, Prisma
+### Databases  
+PostgreSQL · MongoDB · Neon · Prisma · Drizzle
 
-### 🛠️ DevOps & Tools  
-Docker, Git, GitHub Actions, Postman, [ngrok](https://ngrok.com), Wireshark, Azure, Vercel, [Polar](https://polar.sh)
+### DevOps & Tools  
+Docker · Git · GitHub Actions · Postman · ngrok · Wireshark · Azure · Vercel · Polar
 
-### 🎨 Design & 3D  
-Figma, Blender
+### Design & 3D  
+Figma · Blender
 
-### 🎮 Game Development  
-Unity, Pygame
+### Game Development  
+Unity · Pygame
 
 
 <div>
