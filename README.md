@@ -13,16 +13,35 @@ Passionate about developing intuitive web applications with a focus on user expe
 - 💬 **Connect** with me on [LinkedIn](https://www.linkedin.com/in/donald-brinch-683239345/)
 - 📫 **Reach** me by mail donaldbr12@gmail.com
 
-## 🚀 Skills
-- **Languages:** C, C#, HTML and CSS, Java, JavaScript, OCaml, Python, TypeScript.
+## 🚀 Tech Stack
 
-- **Frameworks:** Cypress, Express.js, Flask, JUnit, NestJS, Next.js, (Node.js), React, Spring Boot, Tailwind CSS, Vite, WebRTC.
+### 🧠 Languages  
+C, C#, HTML & CSS, Java, JavaScript, OCaml, Python, TypeScript
 
-- **Databases:** Drizzle, GraphQL, MongoDB, Neon, PostgreSQL, Prisma.
+### ⚙️ Backend  
+- **Frameworks:** Express.js, Flask, NestJS, Node.js, Spring Boot, JUnit  
+- **APIs & Architecture:** REST, GraphQL, tRPC, Webhooks, Inngest  
+- **Authentication:** NextAuth.js, Better Auth  
+- **Realtime & Streaming:** Socket.IO, Stream Video/Chat SDK, WebRTC
 
-- **Development Tools & Platforms:** Azure, Blender, Docker, Figma, Git, GitHub Actions, Postman, Unity, Wireshark.
+### 💻 Frontend  
+- **Frameworks & Libraries:** React, Next.js, Vite, Tailwind CSS  
+- **Testing:** Cypress  
+- **State Management:** Redux, Zustand  
+- **Data Handling:** TanStack Query (React Query), Axios
 
-- **Libraries:** Axios, Better Auth, NextAuth.js, Pygame, Redux, Socket.IO, Tanstack, tRPC, Zustand.
+### 🗄️ Databases  
+Drizzle, MongoDB, Neon, PostgreSQL, Prisma
+
+### 🛠️ DevOps & Tools  
+Docker, Git, GitHub Actions, Postman, [ngrok](https://ngrok.com), Wireshark, Azure, Vercel, [Polar](https://polar.sh)
+
+### 🎨 Design & 3D  
+Figma, Blender
+
+### 🎮 Game Development  
+Unity, Pygame
+
 
 <div>
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e0d299f2-767c-4c21-bd49-90f2a19f1a78" width="60" alt="C">
