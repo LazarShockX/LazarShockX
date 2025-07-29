@@ -25,7 +25,7 @@ C · C# · HTML & CSS · Java · JavaScript · OCaml · Python · TypeScript
 - **Realtime & Streaming:** Socket.IO · WebRTC · Stream Video/Chat SDK
 
 ### Frontend  
-- **Frameworks & Libraries:** React · Next.js · Vite · Tailwind CSS
+- **Frameworks & Libraries:** Next.js · React · React Native · Next.js · Vite · Tailwind CSS
 - **Testing:** Cypress  
 - **State Management:** Redux · Zustand
 - **Data Handling:** TanStack Query · Axios
