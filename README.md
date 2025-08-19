@@ -10,8 +10,7 @@ Passionate about developing intuitive web applications with a focus on user expe
 
 - 🔭 **I** hold a Bachelor of Science  in Software Engineering
 - 🌱 **I've** released a real time chat app with 1000+ monthly users - [randotalk.com](https://www.randotalk.com/)
-- 💬 **Connect** with me on [LinkedIn](https://www.linkedin.com/in/donald-brinch-683239345/)
-- 📫 **Reach** me by mail donaldbr12@gmail.com
+- 📫 **Reach** and connect with me on [LinkedIn](https://www.linkedin.com/in/donald-brinch-683239345/)
 
 ## 🚀 Tech Stack
 
