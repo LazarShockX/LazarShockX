@@ -33,7 +33,7 @@ C · C# · HTML & CSS · Java · JavaScript · OCaml · Python · SQL · TypeScr
 PostgreSQL · MongoDB · Neon · Prisma · Drizzle
 
 ### DevOps & Tools  
-Azure · Docker · Git · GitHub Actions · Postman · Polar · ngrok · Vercel · Wireshark
+Azure · Docker · Figma · Git · GitHub Actions · Postman · Polar · ngrok · Unity · Vercel · Wireshark
 
 
 <div>
