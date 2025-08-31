@@ -15,7 +15,7 @@ Passionate about developing intuitive web applications with a focus on user expe
 ## 🚀 Tech Stack
 
 ### Languages  
-C · C# · HTML & CSS · Java · JavaScript · OCaml · Python · TypeScript
+C · C# · HTML & CSS · Java · JavaScript · OCaml · Python · SQL · TypeScript
 
 ### Backend  
 - **Frameworks:** Express.js · Flask · NestJS · Node.js · Spring Boot · JUnit
