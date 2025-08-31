@@ -30,7 +30,7 @@ C · C# · HTML & CSS · Java · JavaScript · OCaml · Python · SQL · TypeScr
 - **Data Handling:** TanStack Query · Axios
 
 ### Databases  
-PostgreSQL · MongoDB · Neon · Prisma · Drizzle
+MongoDB · Neon · Prisma · Drizzle · PostgreSQL
 
 ### DevOps & Tools  
 Azure · Docker · Figma · Github · Postman · Polar · ngrok · Unity · Vercel · Wireshark
