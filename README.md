@@ -6,7 +6,7 @@
 **LazarShockX/LazarShockX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-Passionate about developing intuitive web applications with a focus on user experience and modern tech stacks.
+Passionate about developing intuitive web applications that integrates AI technologies with a focus on user experience and modern tech stacks.
 
 - 🔭 **I** hold a Bachelor of Science  in Software Engineering
 - 🌱 **I've** released a real time chat app with 4000+ monthly users - [randotalk.com](https://www.randotalk.com/)
