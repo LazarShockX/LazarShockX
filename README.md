@@ -9,7 +9,7 @@
 Passionate about developing intuitive web applications that integrates AI technologies with a focus on user experience and modern tech stacks.
 
 - 🔭 **I** hold a Bachelor of Science  in Software Engineering
-- 🌱 **I've** released a real time chat app with 4000+ monthly users - [randotalk.com](https://www.randotalk.com/)
+- 🌱 **I've** released a real time chat app with 4000+ monthly users
 - 📫 **Reach** and connect with me on [LinkedIn](https://www.linkedin.com/in/donald-brinch-683239345/)
 <!-- - 🤖 **Explore** my interactive AI-powered portfolio showcasing my projects and skills on [FastFolio Portfolio](https://www.fastfol.io/lazarshockx)-->
 
