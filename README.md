@@ -16,7 +16,7 @@ Passionate about developing intuitive web applications that integrates AI techno
 ## 🚀 Tech Stack
 
 ### Languages  
-C · C# · HTML & CSS · Java · JavaScript · OCaml · Python · SQL · TypeScript
+C · C# · HTML & CSS · Java · JavaScript · OCaml · Python · SQL · Swift · TypeScript
 
 ### Backend  
 - **Frameworks:** Express.js · Flask · NestJS · Node.js · Spring Boot · JUnit
@@ -25,7 +25,7 @@ C · C# · HTML & CSS · Java · JavaScript · OCaml · Python · SQL · TypeScr
 - **Realtime & Streaming:** Socket.IO · WebRTC · Stream Video/Chat SDK
 
 ### Frontend  
-- **Frameworks & Libraries:** Next.js · React · React Native · Vite · Tailwind CSS
+- **Frameworks & Libraries:** Next.js · React · React Native · Vite · Tailwind CSS · SwiftUI
 - **Testing:** Cypress  
 - **State Management:** Redux · Zustand
 - **Data Handling:** TanStack Query · Axios
