@@ -6,7 +6,9 @@
 **LazarShockX/LazarShockX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-Passionate about developing intuitive web applications that integrates AI technologies with a focus on user experience and modern tech stacks.
+I build web applications with Next.js and AI integration, exploring how modern web technologies and AI-powered features can come together to create useful, intuitive products. I'm particularly interested in AI-driven developer tools, full-stack development, and experimenting with new ideas by turning them into working software.
+
+Feel free to explore my repositories, and if something catches your eye, you're welcome to fork or clone it and make it your own!
 
 - 🔭 **I** hold a Bachelor of Science  in Software Engineering
 - 🌱 **I've** released a real time chat app with 4000+ monthly users
