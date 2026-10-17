@@ -11,7 +11,7 @@ I build web applications with Next.js and AI integration, exploring how modern w
 Feel free to explore my repositories, and if something catches your eye, you're welcome to fork or clone it and make it your own!
 
 - 🎓 **Education:** Bachelor of Science in Software Engineering
-- 🚀 **Projects:** Built full-stack web applications, AI-powered developer tools, browser-based coding environments, and terminal-based applications.
+- 🚀 **Projects:** Built full-stack web applications, AI-powered developer tools, browser-based coding environments, and terminal-based applications
 - 🌐 **Users:** Released a real-time chat application with 4,000+ monthly users
 - 📫 **Connect:** [LinkedIn](https://www.linkedin.com/in/donald-brinch-683239345/)
 <!-- - 🤖 **Explore** my interactive AI-powered portfolio showcasing my projects and skills on [FastFolio Portfolio](https://www.fastfol.io/lazarshockx)-->
